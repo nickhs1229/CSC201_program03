@@ -1,3 +1,5 @@
+#Nicholas Hitchens-Spellman
+
 #Project 5
 def match_gact(): #Define the program
     inp6 = input("Enter a string of DNA: ") #Define the first input
