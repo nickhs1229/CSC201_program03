@@ -1,0 +1,6 @@
+Report
+The objective of this program was to create a series of programs that could verify and compare DNA sequences as a way of understanding how to implement this type of verification and comparison to other forms of code.
+The most important variables for completing this code were the replace, zip, and range variables, which were repeatedly implemented throughout the program as a means of analyzing and comparing specific strings relative to either each other or established parameters for characters.
+The largest difficulty encountered with this project was developing the specific series of code necessary to compare the lengths of the longest matching sections between two input strings.
+While simply counting the number of matches was easy once I discovered and understood the use of the zip command, the latter required repeated testing in order to produce the required output.
+Additionally, the output produced by comparing one input to a stored database of strings was somewhat unclear given the fact that each string within the database is not displayed to the user without observing the code itself.
