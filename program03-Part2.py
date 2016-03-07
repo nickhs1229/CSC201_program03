@@ -40,7 +40,7 @@ def database_gact(): #Define the program
         result = "" #Define the result variable
         len1, len2 = len(inp10), len(s) #Define the lengths of the input and the database
         for i in range(len1): #Define the range of the first length
-           result2 = "" #Define the second result variable
+            result2 = "" #Define the second result variable
             for j in range(len2): #Define the range of the second length
                 if (i + j < len1 and inp10[i + j] == s[j]): #If the range and respective lengths are of particular sizes
                     result2 += s[j] #Adjust the second result variable for the length of the database
